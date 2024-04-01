@@ -5,3 +5,4 @@
 *.pdf
 *.parquet
 *.pth
+*.ckpt
